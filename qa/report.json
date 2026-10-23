@@ -1,0 +1,259 @@
+[
+  {
+    "route": "/",
+    "viewport": "desktop",
+    "layout": {
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "height": 10848,
+      "h1": 1,
+      "title": "Arjun Mehta — Creative developer & product engineer"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/arc-finance",
+    "viewport": "desktop",
+    "layout": {
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "height": 4599,
+      "h1": 1,
+      "title": "Arc Finance — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/northstar-ai",
+    "viewport": "desktop",
+    "layout": {
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "height": 4539,
+      "h1": 1,
+      "title": "Northstar AI — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/field-notes",
+    "viewport": "desktop",
+    "layout": {
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "height": 4499,
+      "h1": 1,
+      "title": "Field Notes — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/nexus-cloud",
+    "viewport": "desktop",
+    "layout": {
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "height": 4659,
+      "h1": 1,
+      "title": "Nexus Cloud — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/relay-os",
+    "viewport": "desktop",
+    "layout": {
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "height": 4559,
+      "h1": 1,
+      "title": "Relay OS — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/",
+    "viewport": "tablet",
+    "layout": {
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "height": 14251,
+      "h1": 1,
+      "title": "Arjun Mehta — Creative developer & product engineer"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/arc-finance",
+    "viewport": "tablet",
+    "layout": {
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "height": 4591,
+      "h1": 1,
+      "title": "Arc Finance — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/northstar-ai",
+    "viewport": "tablet",
+    "layout": {
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "height": 4491,
+      "h1": 1,
+      "title": "Northstar AI — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/field-notes",
+    "viewport": "tablet",
+    "layout": {
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "height": 4471,
+      "h1": 1,
+      "title": "Field Notes — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/nexus-cloud",
+    "viewport": "tablet",
+    "layout": {
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "height": 4731,
+      "h1": 1,
+      "title": "Nexus Cloud — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/relay-os",
+    "viewport": "tablet",
+    "layout": {
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "height": 4671,
+      "h1": 1,
+      "title": "Relay OS — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/",
+    "viewport": "mobile",
+    "layout": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "height": 11227,
+      "h1": 1,
+      "title": "Arjun Mehta — Creative developer & product engineer"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/arc-finance",
+    "viewport": "mobile",
+    "layout": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "height": 4099,
+      "h1": 1,
+      "title": "Arc Finance — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/northstar-ai",
+    "viewport": "mobile",
+    "layout": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "height": 4022,
+      "h1": 1,
+      "title": "Northstar AI — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/field-notes",
+    "viewport": "mobile",
+    "layout": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "height": 3946,
+      "h1": 1,
+      "title": "Field Notes — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/nexus-cloud",
+    "viewport": "mobile",
+    "layout": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "height": 4099,
+      "h1": 1,
+      "title": "Nexus Cloud — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "route": "/work/relay-os",
+    "viewport": "mobile",
+    "layout": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "height": 4060,
+      "h1": 1,
+      "title": "Relay OS — Arjun Mehta"
+    },
+    "overflow": 0,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "interaction": "mobile-menu",
+    "menuVisible": true,
+    "closesOnEscape": true
+  }
+]
