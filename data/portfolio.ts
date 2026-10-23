@@ -33,6 +33,8 @@ export const profile = {
   initials: "VS",
   role: "Software Engineer · Full-stack Developer",
   email: "vansharma2702@gmail.com",
+  phone: "+91 9354933921",
+  phoneRaw: "+919354933921",
   location: "Delhi, India · Open to opportunities",
   availability: "Building reliable software and AI-powered products",
   intro: "Full-stack software engineer building responsive web products with React, Next.js, Node.js, MongoDB, and PostgreSQL.",

@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { profile } from "@/data/portfolio";
 import { getEmailComposeUrl } from "@/lib/contact";
-import { ArrowIcon, ArrowDownIcon, DownloadIcon } from "./icons";
+import { ArrowIcon, ArrowDownIcon, DownloadIcon, PhoneIcon } from "./icons";
 
 export function Footer() {
   const scrollToTop = () => {
@@ -45,7 +45,11 @@ export function Footer() {
             <a className="mt-2 block font-medium underline underline-offset-4 hover:text-[#876f3f]" href={getEmailComposeUrl(profile.email)} target="_blank" rel="noreferrer">
               {profile.email}
             </a>
-            <p className="mt-1 text-xs text-ink/70">{profile.location}</p>
+            <a className="mt-1.5 flex items-center gap-1.5 font-medium underline underline-offset-4 hover:text-[#876f3f]" href={`tel:${profile.phoneRaw}`}>
+              <PhoneIcon size={13} className="shrink-0 text-ink/70" />
+              <span>{profile.phone}</span>
+            </a>
+            <p className="mt-1.5 text-xs text-ink/70">{profile.location}</p>
             <a
               href="/Vansh_Sharma_Resume.pdf"
               download="Vansh_Sharma_Resume.pdf"

@@ -21,28 +21,28 @@ export function Hero() {
   });
 
   return (
-    <section data-hero className="relative isolate overflow-hidden border-b border-white/10 pt-24 md:pt-28">
+    <section data-hero className="relative isolate overflow-hidden border-b border-white/10 pt-20 sm:pt-22 md:pt-24">
       <div className="hero-halo absolute -right-40 top-0 -z-10 h-[42rem] w-[42rem] rounded-full bg-signal/[0.08] blur-[120px]" aria-hidden="true" />
       <div className="absolute inset-0 -z-20 bg-[linear-gradient(90deg,rgba(255,255,255,.035)_1px,transparent_1px)] bg-[size:7.5rem_100%] [mask-image:linear-gradient(to_bottom,black,transparent_80%)]" aria-hidden="true" />
 
-      <div className="container-frame grid min-h-[calc(100svh-7rem)] gap-12 pb-10 lg:grid-cols-12 lg:items-center lg:gap-8 lg:pb-14">
-        <div className="relative z-10 lg:col-span-7 lg:py-12">
+      <div className="container-frame grid min-h-[calc(100svh-4.5rem)] gap-8 pt-2 pb-10 lg:grid-cols-12 lg:items-center lg:gap-8 lg:pt-0 lg:pb-12">
+        <div className="relative z-10 lg:col-span-7 lg:py-2">
           <motion.div {...reveal(0.02)} className="inline-flex items-center gap-3 rounded-full border border-white/10 bg-white/[0.035] px-4 py-2 font-mono text-[10px] uppercase tracking-[0.16em] text-paper/70 backdrop-blur-md">
             <span className="relative flex h-2 w-2"><span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400 opacity-60" /><span className="relative h-2 w-2 rounded-full bg-emerald-400" /></span>
             Available for meaningful opportunities
           </motion.div>
 
-          <motion.p {...reveal(0.07)} className="mt-8 font-mono text-xs uppercase tracking-[0.2em] text-signal">
+          <motion.p {...reveal(0.07)} className="mt-6 font-mono text-xs uppercase tracking-[0.2em] text-signal">
             Vansh Sharma — Software Engineer
           </motion.p>
-          <motion.h1 {...reveal(0.12)} className="mt-5 max-w-4xl text-[clamp(2.35rem,6.5vw,7.25rem)] font-semibold leading-[0.88] tracking-[-0.075em] text-paper">
+          <motion.h1 {...reveal(0.12)} className="mt-4 max-w-4xl text-[clamp(2.35rem,6.5vw,7.25rem)] font-semibold leading-[0.88] tracking-[-0.075em] text-paper">
             Building digital products that <span className="premium-gradient-text font-semibold">feel effortless.</span>
           </motion.h1>
-          <motion.p {...reveal(0.18)} className="mt-7 max-w-2xl text-base leading-relaxed text-paper/65 md:text-lg">
+          <motion.p {...reveal(0.18)} className="mt-5 max-w-2xl text-base leading-relaxed text-paper/65 md:text-lg">
             I design and engineer fast, thoughtful web experiences—from polished interfaces to production-ready APIs and practical AI workflows.
           </motion.p>
 
-          <motion.div {...reveal(0.23)} className="mt-8 flex flex-wrap items-center gap-3">
+          <motion.div {...reveal(0.23)} className="mt-7 flex flex-wrap items-center gap-3">
             <a href="#work" className="focus-ring group inline-flex items-center gap-2.5 rounded-full bg-paper px-6 py-3.5 text-sm font-semibold text-ink shadow-lg transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[0_0_26px_rgba(245,243,237,0.22)]">
               Explore my work <ArrowIcon size={15} className="transition-transform group-hover:translate-x-1 group-hover:-translate-y-1" />
             </a>
@@ -51,7 +51,7 @@ export function Hero() {
             </a>
           </motion.div>
 
-          <motion.div {...reveal(0.28)} className="mt-10 flex items-center gap-5 sm:gap-6 border-t border-white/10 pt-6">
+          <motion.div {...reveal(0.28)} className="mt-8 flex items-center gap-5 sm:gap-6 border-t border-white/10 pt-5">
             <span className="font-mono text-xs uppercase tracking-[0.16em] text-muted">Find me</span>
             <div className="flex items-center gap-4">
               <a href={profile.socials.github} target="_blank" rel="noreferrer" aria-label="GitHub" className="focus-ring text-muted transition-all hover:text-signal hover:scale-110"><GithubIcon size={20} /></a>
